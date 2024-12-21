@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     
       <footer>
-        <div className="h-[296px] px-[100px] py-[50px] bg-black justify-between items-start inline-flex">
+        <div className="w-full  h-[296px] px-[100px] py-[50px] bg-black justify-between items-start inline-flex fixed bottom-0">
     <div className="w-80 flex-col justify-start items-start gap-[60px] inline-flex">
         <div className="h-[101px] flex-col justify-start items-start gap-6 flex">
             <div className="justify-center items-center gap-2.5 inline-flex">
