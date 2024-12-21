@@ -21,3 +21,29 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# header css figma
+# <div className="w-[1280px] h-[84px] px-[100px] py-4 bg-[#696969] justify-between items-center inline-flex">
+#     <div className="justify-center items-center gap-2.5 flex">
+#         <div className="text-white text-2xl font-bold font-['Montserrat']">Logo</div>
+#     </div>
+#     <div className="h-[18px] justify-between items-center flex ">
+#         <div className="justify-center items-center gap-2.5 flex">
+#             <div className="text-white text-[15px] font-semibold font-['Montserrat']">Explore</div>
+#         </div>
+#         <div className="justify-center items-center gap-2.5 flex">
+#             <div className="text-white text-[15px] font-semibold font-['Montserrat']">Make a plan</div>
+#         </div>
+#         <div className="justify-center items-center gap-2.5 flex">
+#             <div className="text-white text-[15px] font-semibold font-['Montserrat']">Reviews</div>
+#         </div>
+#     </div>
+#     <div className="justify-start items-center gap-[18px] flex">
+#         <div className="h-[52px] px-5 py-4 bg-[#626262] rounded-[40px] justify-center items-center gap-2.5 flex">
+#             <div className="text-white text-base font-medium font-['Montserrat']">Log in</div>
+#         </div>
+#         <div className="h-[52px] px-5 py-4 bg-black rounded-[40px] justify-center items-center gap-2.5 flex">
+#             <div className="text-white text-base font-medium font-['Montserrat']">Sign up</div>
+#         </div>
+#     </div>
+# </div>

@@ -3,6 +3,9 @@ import './App.css';
 import axios from 'axios';
 
 import React, { useEffect, useState } from 'react';
+import Footer from './component/Footer';
+import Header from './component/Header';
+
 
 function App() {
   const [message, setMessage] = useState('');
@@ -21,11 +24,18 @@ function App() {
   }, []);
   
     return (
-        <div>
-            <h1>{message}</h1>
+        <>
+            
+
+        <Header/>
+        <h1>{message}</h1>
             <p>Backend Connection: {message}</p>
-        </div>
+        <Footer/>
+        </>
     );
+    
+      
+    
 }
 
 export default App;
