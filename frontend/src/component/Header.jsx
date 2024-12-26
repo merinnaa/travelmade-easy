@@ -9,7 +9,7 @@ const Header = () => {
     <div className="justify-center items-center gap-2.5 flex">
       
       <div className="justify-center items-center gap-2.5 flex">
-        <div className="text-white text-2xl font-bold font-['Montserrat']">Logo</div>
+      <Logo/>
     
       </div>
     </div>
@@ -17,10 +17,10 @@ const Header = () => {
 
     <div className="justify-start items-center gap-[18px] flex">
         <div className="h-[52px] px-5 py-4 bg-[#626262] rounded-[40px] justify-center items-center gap-2.5 flex">
-            <div className="text-white text-base font-medium font-['Montserrat']">Log in</div>
+            <button className="text-white text-base font-medium font-['Montserrat']">Log in</button>
         </div>
         <div className="h-[52px] px-5 py-4 bg-black rounded-[40px] justify-center items-center gap-2.5 flex">
-            <div className="text-white text-base font-medium font-['Montserrat']">Sign up</div>
+            <button className="text-white text-base font-medium font-['Montserrat']">Sign up</button>
         </div>
     </div>
 </div>

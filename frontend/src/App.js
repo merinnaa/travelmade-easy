@@ -5,6 +5,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import Footer from './component/Footer';
 import Header from './component/Header';
+import Landing from './component/Landing';
 
 
 function App() {
@@ -28,8 +29,7 @@ function App() {
             
 
         <Header/>
-        <h1>{message}</h1>
-            <p>Backend Connection: {message}</p>
+        <Landing/>
         <Footer/>
         </>
     );
