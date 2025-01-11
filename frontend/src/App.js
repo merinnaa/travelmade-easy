@@ -1,11 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
-
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import React, { useEffect, useState } from 'react';
 import Footer from './component/Footer';
 import Header from './component/Header';
 import Landing from './component/Landing';
+import Signup from './component/Signup';
 
 
 function App() {
@@ -29,9 +30,12 @@ function App() {
             
 
         <Header/>
+       
         <Landing/>
+        
         <Footer/>
         </>
+        
     );
     
       

@@ -3,6 +3,7 @@ import emailAddress from '../asset/images/email-address.png'
 import phoneIcon from '../asset/images/phone-icon.png'
 import addressIcon from '../asset/images/address-icon.png'
 import { Link } from 'react-router-dom'
+import vector from '../asset/images/Vector.png'
 const Footer = () => {
   return (
     
@@ -20,7 +21,7 @@ const Footer = () => {
             <div className="w-80 h-12 px-6 py-4 left-0 top-0 absolute bg-white rounded-[400px] border border-[#c6c6c6] justify-start items-start gap-2.5 inline-flex">
                 <input type='text' placeholder='Your Email@gmail.com' className="text-[#c6c6c6] text-xs font-medium font-['Montserrat'] leading-none tracking-wide" />
             </div>
-            <div className="h-[36.50px] p-2.5 left-[276px] top-[6px] absolute bg-[#161c23] rounded-[40px] flex-col justify-start items-start gap-2.5 inline-flex overflow-hidden" />
+            <img src={vector} className="h-[36.50px] p-2.5 left-[276px] top-[6px] absolute bg-[#161c23] rounded-[40px] flex-col justify-start items-start gap-2.5 inline-flex overflow-hidden" />
         </div>
     </div>
     <div className="h-[196px] justify-between items-start flex">

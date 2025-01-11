@@ -1,0 +1,42 @@
+/* <div style={{width: '100%', height: '100%', paddingLeft: 100, paddingRight: 100, paddingTop: 50, paddingBottom: 50, background: '#34495B', borderTopLeftRadius: 40, borderTopRightRadius: 40, justifyContent: 'flex-start', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+    <div style={{width: 469, transform: 'rotate(180deg)', transformOrigin: '0 0', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 36, display: 'inline-flex'}}>
+        <div style={{alignSelf: 'stretch', height: 146, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'center', gap: 10, display: 'flex'}}>
+            <div style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+                <div style={{flex: '1 1 0', color: '#DCE4EC', fontSize: 36, fontFamily: 'Montserrat', fontWeight: '700', lineHeight: 44, wordWrap: 'break-word'}}>Ask Away, AI’s Got You Covered</div>
+            </div>
+            <div style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+                <div style={{flex: '1 1 0', color: '#C6C6C6', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '500', lineHeight: 24, letterSpacing: 0.50, wordWrap: 'break-word'}}>Lorem ipsum dolor sit amet consectetur. Nunc duis vulputate sit. Dui gravida sed tempor pulvinar. </div>
+            </div>
+        </div>
+        <div style={{width: 127, paddingLeft: 24, paddingRight: 24, paddingTop: 16, paddingBottom: 16, background: '#1F7A8C', boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.25)', borderRadius: 400, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+            <div style={{flex: '1 1 0', textAlign: 'center', color: 'white', fontSize: 12, fontFamily: 'Montserrat', fontWeight: '500', lineHeight: 16, letterSpacing: 0.50, wordWrap: 'break-word'}}>Get Started</div>
+        </div>
+    </div>
+    <div style={{width: 50, height: 50, position: 'relative'}}>
+        <div style={{width: 12.55, height: 9.95, left: 15.55, top: 31.06, position: 'absolute', border: '4px #FFB08E solid'}}></div>
+        <div style={{width: 30.54, height: 11.88, left: 8.93, top: 23.87, position: 'absolute', border: '4px #FFB08E solid'}}></div>
+        <div style={{width: 11.58, height: 12.55, left: 4.69, top: 18.91, position: 'absolute', border: '4px #FFB08E solid'}}></div>
+        <div style={{width: 31.53, height: 17.06, left: 7.26, top: 8.02, position: 'absolute', border: '4px #FFB08E solid'}}></div>
+        <div style={{width: 30.70, height: 17.44, left: 14.61, top: 8.64, position: 'absolute', border: '4px #FFB08E solid'}}></div>
+    </div>
+    <div style={{width: 400, height: 219.97, position: 'relative'}}>
+        <div style={{width: 359.13, height: 3.97, left: 20.37, top: 216, position: 'absolute', background: 'black', boxShadow: '17.4603328704834px 17.4603328704834px 17.4603328704834px ', borderRadius: 9999, filter: 'blur(17.46px)'}} />
+        <div style={{width: 323.81, height: 219.84, left: 37.82, top: 0, position: 'absolute'}}>
+            <div style={{width: 323.81, height: 219.84, left: 0, top: 0, position: 'absolute', background: '#1A202C', borderTopLeftRadius: 11.11, borderTopRightRadius: 11.11, borderBottomRightRadius: 1.59, borderBottomLeftRadius: 1.59, border: '0.79px #4A5568 solid'}} />
+            <div style={{width: 319.84, height: 209.52, left: 1.98, top: 1.98, position: 'absolute', background: 'black', borderTopLeftRadius: 8.73, borderTopRightRadius: 8.73}} />
+            <div style={{width: 305.56, height: 190.48, left: 8.33, top: 12.30, position: 'absolute'}}>
+                <div style={{width: 305.56, height: 190.48, left: 0, top: 0, position: 'absolute', background: '#AAAAAA'}} />
+                <div style={{left: 185.30, top: 90.87, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', textAlign: 'center', color: '#2D3748', fontSize: 9.52, fontFamily: 'Inter', fontWeight: '700', lineHeight: 8.57, wordWrap: 'break-word'}}>Travel Mosaic</div>
+            </div>
+            <div style={{left: 144.84, top: 211.90, position: 'absolute', textAlign: 'center', color: '#A0AEC0', fontSize: 5.16, fontFamily: 'Inter', fontWeight: '600', lineHeight: 4.64, wordWrap: 'break-word'}}>Macbook Pro</div>
+        </div>
+        <div style={{width: 400, height: 11.91, left: 0, top: 208, position: 'absolute'}}>
+            <div style={{width: 400, height: 7.14, left: 0, top: 0, position: 'absolute', background: 'linear-gradient(0deg, #A3ACB1 0%, #A3ACB1 100%), linear-gradient(90deg, #0D1012 0%, #CAD4DB 3%, #242729 6%, #A3ACB1 13%, #A3ACB1 87%, #242729 94%, #CAD4DB 97%, #0D1012 100%)', borderTopLeftRadius: 0.79, borderTopRightRadius: 0.79}} />
+            <div style={{width: 400, height: 4.76, left: 0, top: 7.14, position: 'absolute', background: 'linear-gradient(0deg, #647279 0%, #647279 100%), linear-gradient(180deg, #7A7F83 0%, #0B0B0E 100%)'}}></div>
+            <div style={{width: 66.24, height: 5.56, left: 167.07, top: 0, position: 'absolute', background: 'linear-gradient(0deg, #96A1A8 0%, #96A1A8 100%), linear-gradient(90deg, #3C3C3C 0%, rgba(60, 60, 60, 0) 32%, rgba(60, 60, 60, 0) 66%, #444444 100%)'}}></div>
+        </div>
+    </div>
+    <div style={{width: 50, height: 50, position: 'relative'}}>
+        <div style={{width: 45.83, height: 41.67, left: 2.08, top: 4.17, position: 'absolute', background: '#FFB08E'}}></div>
+    </div>
+</div> */
